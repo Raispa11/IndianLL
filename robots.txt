@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://raispa11.github.io/IndianLL/sitemap.xml
